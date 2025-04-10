@@ -1,4 +1,4 @@
-package com.example.blog;
+package com.example.blog.domain;
 
 import com.example.blog.dto.ArticleResponse;
 import jakarta.persistence.*;

@@ -1,6 +1,6 @@
 package com.example.blog.controller;
 
-import com.example.blog.Article;
+import com.example.blog.domain.Article;
 import com.example.blog.dto.ArticleViewResponse;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

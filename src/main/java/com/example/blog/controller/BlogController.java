@@ -1,6 +1,6 @@
 package com.example.blog.controller;
 
-import com.example.blog.Article;
+import com.example.blog.domain.Article;
 import com.example.blog.dto.AddArticleRequest;
 import com.example.blog.dto.ArticleResponse;
 import com.example.blog.dto.UpdateArticleRequest;

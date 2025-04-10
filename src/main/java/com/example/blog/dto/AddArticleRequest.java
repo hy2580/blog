@@ -1,6 +1,6 @@
 package com.example.blog.dto;
 
-import com.example.blog.Article;
+import com.example.blog.domain.Article;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
